@@ -77,21 +77,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tasfiq-asif&" alt="tasfiq-asif" /></p>
 
-<style>
-@keyframes gradient {
-  0% {background-position: 0% 50%;}
-  50% {background-position: 100% 50%;}
-  100% {background-position: 0% 50%;}
-}
 
-@keyframes typing {
-  from { width: 0% }
-  to { width: 100% }
-}
-
-@keyframes blink-caret {
-  from, to { border-color: transparent }
-  50% { border-color: orange }
-}
-</style>
 
