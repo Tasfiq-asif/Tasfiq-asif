@@ -13,7 +13,7 @@
 
 <h3 align="center">
   <span style="display:inline-block; overflow:hidden; white-space:nowrap; border-right: .15em solid orange; animation: typing 3.5s steps(30, end), blink-caret .75s step-end infinite;">
-    A passionate frontend developer from Bangladesh
+    A passionate Full Stack developer from Bangladesh
   </span>
 </h3>
 
