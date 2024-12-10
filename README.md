@@ -27,7 +27,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👯 I’m looking to collaborate on **React Project**
+- 🧑‍🤝‍🧑 I’m looking to collaborate on **React Project**
 
 - 💬 Ask me about **React**
 
