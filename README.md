@@ -25,7 +25,7 @@
 
 - 🔭 I’m currently working on **Personal Portfolio**
 
-- 🌱 I’m currently learning **NEXTJS**
+- 🌱 I’m currently learning **Redux**
 
 - 🧑‍🤝‍🧑 I’m looking to collaborate on **NEXTJS Project**
 
