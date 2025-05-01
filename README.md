@@ -1,81 +1,42 @@
-<h1 align="center">
-  <a href="#" style="text-decoration: none; color: black;">
-    <span style="
-      background: linear-gradient(90deg, #f39c12, #f1c40f, #e67e22, #d35400, #e74c3c);
-      background-size: 400%;
-      -webkit-background-clip: text;
-      -webkit-text-fill-color: transparent;
-      animation: gradient 10s ease infinite;">
-      Hi 👋, I'm Tasfiqul Asif
-    </span>
-  </a>
-</h1>
+<img src="https://raw.githubusercontent.com/Tarantino23/apijson/master/wave.gif" width="30px"> Hello, I'm Tasfiqul Asif
 
-<h3 align="center">
-  <span style="display:inline-block; overflow:hidden; white-space:nowrap; border-right: .15em solid orange; animation: typing 3.5s steps(30, end), blink-caret .75s step-end infinite;">
-    A passionate Full Stack developer from Bangladesh
-  </span>
-</h3>
+"Building bridges between data and decisions, one line of code at a time."
 
-<p align="left"> 
-  <a href="https://twitter.com/tasfiqq" target="blank">
-    <img src="https://img.shields.io/twitter/follow/tasfiqq?logo=twitter&style=for-the-badge" alt="tasfiqq" />
-  </a> 
+I'm a full-stack developer who turned coffee into code long before I knew what MERN meant. Currently transforming ideas into digital realities and building applications that make a difference.
+💡 What drives me
+javascriptconst tasfiq = {
+  skills: ['MongoDB', 'Express', 'React', 'Node', 'JavaScript', 'Python'],
+  currentlyLearning: 'Redux & Advanced State Management',
+  challenge: 'Building intuitive applications that solve real problems',
+  lifePhilosophy: () => 'Code like your CPU is overheating and you need to finish before it shuts down'
+};
+🚀 Current journey
+
+🔭 Building a personal portfolio that actually represents who I am
+🌱 Deep diving into Redux and state management patterns
+💻 Crafting scalable and performant web applications
+🤝 Looking to collaborate on NextJS projects that push boundaries
+
+💬 Let's talk about
+
+How React changed my developer life
+Creating efficient backend architectures
+Why MongoDB is both loved and hated
+Photography techniques (my parallel universe career)
+
+📊 GitHub stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tasfiq-asif&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="tasfiq-asif" />
 </p>
-
-- 🔭 I’m currently working on **Personal Portfolio**
-
-- 🌱 I’m currently learning **Redux**
-
-- 🧑‍🤝‍🧑 I’m looking to collaborate on **NEXTJS Project**
-
-- 💬 Ask me about **React**
-
-- 📫 How to reach me **tasfiq.asif.23@gmail.com**
-
-- ⚡ Fun fact **I wish I were a photographer once!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/tasfiqq" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tasfiqq" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/s-m-tasfiqul-asif" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/https://www.facebook.com/tasfiq/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/tasfiq.sunny" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tasfiq-asif&theme=tokyonight" alt="tasfiq-asif" />
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="transform:scale(1); transition: transform .2s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/> 
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="transform:scale(1); transition: transform .2s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/> 
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="transform:scale(1); transition: transform .2s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/> 
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" style="transform:scale(1); transition: transform .2s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="transform:scale(1); transition: transform .2s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="transform:scale(1); transition: transform .2s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/> 
-  </a> 
+📫 Connect with me
+<p align="center">
+  <a href="https://twitter.com/tasfiqq" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/s-m-tasfiqul-asif" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.facebook.com/tasfiq/" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://instagram.com/tasfiq.sunny" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:tasfiq.asif.23@gmail.com"><img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tasfiq-asif&show_icons=true&locale=en&layout=compact" alt="tasfiq-asif" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tasfiq-asif&" alt="tasfiq-asif" /></p>
-
-
-
+<p align="center">⚡ Fun fact: I once debugged code in my dreams and woke up with the solution</p>
