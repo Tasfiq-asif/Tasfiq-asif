@@ -26,7 +26,7 @@ const tasfiq = {
 
 ## 💬 Let's talk about
 
-- How React changed my developer life
+- How learning to code changed my perspective
 - Creating efficient backend architectures
 - Why MongoDB is both loved and hated
 - Photography techniques (my parallel universe career)
