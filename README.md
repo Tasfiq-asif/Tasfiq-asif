@@ -10,7 +10,7 @@ I'm a full-stack developer who turned coffee into code long before I knew what M
 
 ```javascript
 const tasfiq = {
-  skills: ['MongoDB', 'Express', 'React', 'Node', 'JavaScript', 'Python'],
+  skills: ['MongoDB', 'Express', 'React', 'Node', 'JavaScript',Typescript, 'Python'],
   currentlyLearning: 'Redux & Advanced State Management',
   challenge: 'Building intuitive applications that solve real problems',
   lifePhilosophy: () => 'Code like your CPU is overheating and you need to finish before it shuts down'
